@@ -1,0 +1,4 @@
+function distanceFromHqInBlocks(pickupLocation){
+    return(pickupLocation);
+}
+console.log(100)
